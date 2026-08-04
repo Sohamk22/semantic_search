@@ -1,0 +1,128 @@
+[
+    {
+        "topic": "astronomy",
+        "text": "A black hole has gravity so strong that even light cannot escape.",
+        "id": 1
+    },
+    {
+        "topic": "astronomy",
+        "text": "The Sun is the closest star to Earth.",
+        "id": 2
+    },
+    {
+        "topic": "astronomy",
+        "text": "Mars is often called the Red Planet because of its iron oxide surface.",
+        "id": 3
+    },
+    {
+        "topic": "astronomy",
+        "text": "A light year is a unit of distance, not time.",
+        "id": 4
+    },
+
+    {
+        "topic": "programming",
+        "text": "Python is a popular programming language used in artificial intelligence.",
+        "id": 5
+    },
+    {
+        "topic": "programming",
+        "text": "A function allows reusable blocks of code.",
+        "id": 6
+    },
+    {
+        "topic": "programming",
+        "text": "Git helps developers track changes in source code.",
+        "id": 7
+    },
+    {
+        "topic": "programming",
+        "text": "Machine learning models are commonly built using Python libraries.",
+        "id": 8
+    },
+
+    {
+        "topic": "football",
+        "text": "The FIFA World Cup is held every four years.",
+        "id": 9
+    },
+    {
+        "topic": "football",
+        "text": "A football match is played between two teams of eleven players.",
+        "id": 10
+    },
+    {
+        "topic": "football",
+        "text": "Lionel Messi won the FIFA World Cup in 2022.",
+        "id": 11
+    },
+    {
+        "topic": "football",
+        "text": "The goalkeeper is the only player allowed to handle the ball inside the penalty area.",
+        "id": 12
+    },
+
+    {
+        "topic": "cooking",
+        "text": "Pasta is commonly made using wheat flour and water.",
+        "id": 13
+    },
+    {
+        "topic": "cooking",
+        "text": "Baking requires careful measurement of ingredients.",
+        "id": 14
+    },
+    {
+        "topic": "cooking",
+        "text": "Olive oil is widely used in Mediterranean cooking.",
+        "id": 15
+    },
+    {
+        "topic": "cooking",
+        "text": "Fresh herbs improve the flavor of many dishes.",
+        "id": 16
+    },
+
+    {
+        "topic": "wildlife",
+        "text": "Elephants are the largest land animals on Earth.",
+        "id": 17
+    },
+    {
+        "topic": "wildlife",
+        "text": "Tigers are powerful predators found mainly in Asia.",
+        "id": 18
+    },
+    {
+        "topic": "wildlife",
+        "text": "Penguins are birds that cannot fly but are excellent swimmers.",
+        "id": 19
+    },
+    {
+        "topic": "wildlife",
+        "text": "Dolphins communicate using clicks and whistles.",
+        "id": 20
+    },
+
+    {
+        "topic": "music",
+        "text": "A piano has eighty eight keys.",
+        "id": 21
+    },
+    {
+        "topic": "music",
+        "text": "Classical music often features orchestras with many instruments.",
+        "id": 22
+    },
+    {
+        "topic": "music",
+        "text": "Rhythm and melody are important elements of music.",
+        "id": 23
+    },
+    {
+        "topic": "music",
+        "text": "The guitar is one of the most popular musical instruments.",
+        "id": 24
+    }
+
+]
