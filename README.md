@@ -6,6 +6,7 @@ At the end it also visualises the document embeddings using PCA to show how diff
 
 While working on the project, encountered two errors- the API key was incorrect, and the plot embedding was not getting impemented. Checked the .env file and the plot function.
 
+Details about the plot- The PCA plot shows that documents with similar topics are grouped close to each other. For example, documents about football, music and cooking form their own small clusters, while a few points overlap because some words or ideas are shared across topics. This means the search engine understands the overall meaning of the documents and places related content closer together, making it easier to find relevant information even when the exact keywords are not used.
 ## How to run
 
 Install the required packages:
